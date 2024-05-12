@@ -6,3 +6,5 @@ button.forEach(function (button) {
     body.style.backgroundColor = ele.target.id;
   });
 });
+
+console.log("Hello");
